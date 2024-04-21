@@ -1,5 +1,7 @@
 # Android Object Detection
+![Icon](app/src/main/res/drawable/icon.png)
 
+## Screenshots
 ![secaraLangsung](https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/f6f71790-00c9-459a-9c78-092dc66b338c)
 ![secaraGambar](https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/14c1efad-c1d1-4785-8210-8aefd557690d)
 
