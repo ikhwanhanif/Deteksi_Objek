@@ -1,9 +1,10 @@
 # Android Object Detection
-![Icon](app/src/main/res/drawable/icon.png)
+
+<img width="100" alt="icon-image-detection" src="app/src/main/res/drawable/icon.png">
 
 ## Screenshots
-![secaraLangsung](https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/f6f71790-00c9-459a-9c78-092dc66b338c)
-![secaraGambar](https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/14c1efad-c1d1-4785-8210-8aefd557690d)
+<img width="200" alt="sc-image-detection-1" src="https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/f6f71790-00c9-459a-9c78-092dc66b338c">
+<img width="200" alt="sc-image-detection-2" src="https://github.com/ikhwanhanif/Deteksi_Objek/assets/108711453/14c1efad-c1d1-4785-8210-8aefd557690d">
 
 ## Description
 Android Object Detection is a simple application that allows users to detect objects using their Android device camera. The application provides two modes: real-time detection and detection from user-selected images.
